@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.unurb.hahadavis" version="3.6" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.unurb.hahadavis" version="3.7" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Dont Do It Big Fella</name>
 	<description>the famous saying app</description>
 	<author href="http://www.pixelgangstudios.com" email="support@pixelgangstudios.com">tranapps</author>
@@ -27,7 +27,7 @@
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
-	<plugin name="cordova-plugin-wkwebview-engine" />
+	
 	<plugin name="https://github.com/cranberrygame/cordova-plugin-ad-admob" />
 
 
