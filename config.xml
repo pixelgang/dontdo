@@ -19,12 +19,12 @@
 
 
 	<preference name="deployment-target" value="10.0" />
-	<preference name="android-minSdkVersion" value="27" />
+	<preference name="android-minSdkVersion" value="25" />
 	<access origin="*" />
 
 	<plugin name="cordova-custom-config" />
 	<plugin name="cordova-plugin-ad-admob" />
-	<plugin name="cordova-plugin-file" />
+	
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
