@@ -1,6 +1,6 @@
 ﻿{
 	"id": "com.unurb.hahadavis",
-	"version": "4.0",
+	"version": "4.3",
 	"name": "Dont Do It Big Fella",
 	"description": "the famous saying app",
 	"author": "tranapps",
@@ -22,7 +22,6 @@
 	}],
 	"plugins": [
 		{ "id": "cordova-custom-config", "version": null },
-		{ "id": "cordova-plugin-ad-admob", "version": null },
 		{ "id": "cordova-plugin-file", "version": null },
 		{ "id": "cordova-plugin-inappbrowser", "version": null },
 		{ "id": "cordova-plugin-statusbar", "version": null },
